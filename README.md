@@ -1,5 +1,5 @@
 # MasterError
-Train an AI model to solve programming problems and give improvements and solutions. (Correct Code, Error Solutions, Function, Class)
+Train an AI model to solve programming problems and give improvements and solutions. (Correct Code, Error Solutions, Function, Class, Improvements)
 
 ### Check Your any code (complete or error)
 
